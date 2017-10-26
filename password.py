@@ -1,6 +1,6 @@
 import random
 
-alphabet = "abcdefghijklmnopqrstuvwxyz .,!@_-(*)-+/§éèçò$%=?^ì&£|\"
+alphabet = "abcdefghijklmnopqrstuvwxyz .,!@_-(*)-+/§ç$%=?^&£|"
 pw_length = 37 #can change the length of your password by changing this number
 mypw = ""
 
