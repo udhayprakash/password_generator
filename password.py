@@ -13,7 +13,7 @@ for i in range(random.randrange(1,4)):
     replace_index = random.randrange(len(mypw)//2)
     mypw = mypw[0:replace_index] + str(random.randrange(10)) + mypw[replace_index+1:]
 
-# replace 2 letters with an uppercase letter
+# replace 2 characters with a number, if you wish to replace more characters increase "for i in range(random.randrange(1,[THIS NUMBER]))"
 for i in range(random.randrange(1,4)):
     replace_index = random.randrange(len(mypw)//2,len(mypw))
     mypw = mypw[0:replace_index] + mypw[replace_index].upper() + mypw[replace_index+1:]
