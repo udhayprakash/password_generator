@@ -1,3 +1,3 @@
 # password generator
 
-Simple python script that generate complex pasword
+Simple python script that generates complex pasword
